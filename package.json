@@ -24,7 +24,8 @@
   "homepage": "https://github.com/CosmicCoder96/MEAN-stack-app#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.11"
   },
   "devDependencies": {
     "mocha": "^3.1.2"
